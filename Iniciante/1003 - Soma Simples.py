@@ -3,4 +3,4 @@ b = int(input())
 
 soma = a + b
 
-print('SOMA é =', soma)
+print('SOMA =', soma)
